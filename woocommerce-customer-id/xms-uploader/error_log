@@ -1,0 +1,16 @@
+[31-Jan-2018 01:30:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'dev.northstudio.org/wp-blog-header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 2
+[31-Jan-2018 01:32:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/wp-blog-header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 2
+[31-Jan-2018 02:00:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../load.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 134
+[31-Jan-2018 02:01:19 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../load.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 2
+[31-Jan-2018 02:03:56 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../load.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 10
+[31-Jan-2018 02:06:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/devnsorg/public_html/wp-settings.php on line 19
+[31-Jan-2018 02:06:50 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/devnsorg/public_html/wp-settings.php on line 19
+[31-Jan-2018 02:13:41 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 9
+[07-Feb-2018 05:08:29 UTC] PHP Warning:  Illegal string offset 'server' in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 166
+[07-Feb-2018 05:08:29 UTC] PHP Warning:  Illegal string offset 'file' in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 166
+[07-Feb-2018 05:09:55 UTC] PHP Warning:  Illegal string offset 'server' in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 166
+[07-Feb-2018 05:09:55 UTC] PHP Warning:  Illegal string offset 'file' in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 166
+[07-Feb-2018 05:14:34 UTC] PHP Warning:  Illegal string offset 'server' in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 166
+[07-Feb-2018 05:14:34 UTC] PHP Warning:  Illegal string offset 'file' in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 166
+[07-Feb-2018 05:30:01 UTC] PHP Warning:  Illegal string offset 'server' in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 166
+[07-Feb-2018 05:30:01 UTC] PHP Warning:  Illegal string offset 'file' in /home/devnsorg/public_html/wp-content/themes/flatsome-child/xms-uploader/slim.php on line 166
